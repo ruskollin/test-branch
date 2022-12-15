@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>On the branch2 branch</p>
+        <p>Test 2 remote</p>
         <a
           className="App-link"
           href="https://reactjs.org"
